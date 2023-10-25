@@ -18,7 +18,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: "糯糯桃的博客",
+      title: "Nora的博客",
       description: '哈工深本硕，职业规划为成为一名前端工程师，曾在百度实习，目前秋招ing。分享前端技术、编程技术、日常感悟等。',
     }
   },
@@ -113,8 +113,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     // 文章默认的作者信息，(可在md文件中单独配置此信息) string | {name: string, link?: string}
     author: {
-      name: 'xugaoyi', // 必需
-      link: 'https://github.com/xugaoyi', // 可选的
+      name: 'nora', // 必需
+      link: 'https://github.com/HITyycc', // 可选的
     },
 
     // 博主信息 (显示在首页侧边栏)
